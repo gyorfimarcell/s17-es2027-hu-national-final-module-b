@@ -1,6 +1,6 @@
-# Title of the Project
+# Module B – Speedtest
 
-descriptive-title-of-the-project
+A collection of 9 frontend tasks (HTML, CSS, JavaScript) used for the Hungary National Final 2027 — Module B.
 
 ## Skill domain(s)
 
@@ -8,12 +8,13 @@ descriptive-title-of-the-project
 
 ## Task Origin
 
-This project task is based on test projects based on the **competition-name** competition **module-name test project** submitted by **name-of-the-test-project-writer(s)**. The original task was updated, modularized, and standardized to form the basis of the project task repository within the Erasmus+ **"Marketable IT Skills: Integrating Real-World Challenges into Vocational Education"** project.
+This project task is based on the Hungary National Final 2027 — Module B test project. The original task was adapted and standardized to the MITS repository format.
 
 ## Content
 
 - [Project Description](project-description.md)
-- [Media Files](tree/main/src/assets)
+- [Assets](assets/)
+- [Marking scheme](marking/marking-scheme.json)
 
 ## About the Project
 
